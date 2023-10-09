@@ -2,14 +2,14 @@
 
 # Table of Contents
 1. [Introduction](#introduction)
-2. [Section 1](#Setting up the environment)
-3. [Section 2](#Creating the computer vision system)
-4. [Section 3](#Installing the dependencies)
-5. [Section 4](#Creating a Rock-Paper-Scissors game)
-6. [Section 5](#Using the camera to play Rock-Paper-Scissors)
-7. [Section 6](#Installation Instructions)
-8. [Section 7](#Usage Instructions)
-9. [Section 8](#License Information)
+2. [Setting up the environment](#Setting-up-the-environment)
+3. [Creating the computer vision system](#Creating-the-computer-vision-system)
+4. [Installing the dependencies](#Installing-the-dependencies)
+5. [Creating a Rock-Paper-Scissors game)](#Creating-a-Rock-Paper-Scissors-game)
+6. [Using the camera to play Rock-Paper-Scissors](#Using-the-camera-to-play-Rock-Paper-Scissors)
+7. [Installation Instructions](#Installation-Instructions)
+8. [Usage Instructions](#Usage-Instructions)
+9. [License Information](#License-Information)
     
 ## Introduction
 
