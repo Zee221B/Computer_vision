@@ -73,6 +73,8 @@ I created a Python script that will simulate a Rock-Paper-Scissors game, in whic
 I used the random module to pick a random option between rock, paper and scissors and input function to get the user's choice. I used if-elif-else statements so the script coudl choose a winner based on the classic rules of the game. I wrapped the codde in a function called get-winner and that returned the winner. This function took two arguments: computer_choice and user_choice.
 If the computer wins, the function would print "You lost", if the user wins, the function would print "You won!", and if it's a tie, the function would print "It is a tie!".
 
+![Alt text](image.png)
+
 ## Using the camera to play Rock-Paper-Scissors
 
 I replaced the hard-coded user guess with the output of the computer vision model. I created a new file called camera_rps.py where I wrote the new code.I created a new function called get_prediction that would return the output of the model I used earlier.The model can make many predictions at once if given many images. The game is repeated until either the user or the computer wins three rounds.
